@@ -17,7 +17,7 @@ MSSQL_PID='developer'
 # SQL_INSTALL_FULLTEXT='y'
 
 # Create an additional user with sysadmin privileges (optional)
-SQL_INSTALL_USER='Alex'
+SQL_INSTALL_USER='Grafana'
 SQL_INSTALL_USER_PASSWORD='!Sy5admin'
 
 if [ -z $MSSQL_SA_PASSWORD ]
