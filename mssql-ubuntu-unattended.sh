@@ -11,7 +11,7 @@ MSSQL_SA_PASSWORD='SqL!P4SS$4'
 MSSQL_PID='developer'
 
 # Install SQL Server Agent (recommended)
-SQL_INSTALL_AGENT='y'
+# SQL_INSTALL_AGENT='y'
 
 # Install SQL Server Full Text Search (optional)
 # SQL_INSTALL_FULLTEXT='y'
